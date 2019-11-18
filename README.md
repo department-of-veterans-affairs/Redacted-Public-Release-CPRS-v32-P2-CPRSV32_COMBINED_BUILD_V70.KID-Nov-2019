@@ -1,0 +1,2 @@
+# Redacted-Public-Release-CPRS-v32-P2-CPRSV32_COMBINED_BUILD_V70.KID-Nov-2019
+Repository containing the CPRS v32 Phase 2 CIF submission of CPRSV32_COMBINED_BUILD_V70.KID, OR_30_405V70.ZIP, OR_30_405V70_SRC.ZIP in Nov 2019.
